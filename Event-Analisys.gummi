@@ -1,0 +1,4 @@
+version=0.6.0
+typesetter=rubber
+steps=texpdf
+root=/home/kononencheg/Documents/Event-Analisys/bleeding-edge.tex
